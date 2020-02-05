@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://root:root@clusterjoesjack-x1gsx.mongodb.net/social-back?retryWrites=true&w=majority",
+    "jwtSecret" :"joesjack",
+    "githubClientId":"770b32ef20bce7b0464c",
+    "githubSecret":"b4d14d581ecf3052ad618eca1eed13966f705201"
+}
